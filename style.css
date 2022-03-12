@@ -1,0 +1,29 @@
+
+body{background-color: black;
+background-image: url(churrasco.jpg);background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;}
+
+.article {color: white;
+    background-color: rgba(0, 0, 0, 0.438);
+    font-family: Arial, Helvetica, sans-serif;   
+    max-width: 300px;
+    margin: auto; margin-top: 100px;
+    padding: 20px;border-radius: 10px;}
+
+.conteiner {
+font-family: Arial, Helvetica, sans-serif;   
+max-width: 300px;
+margin: auto; margin-top: 20px;
+background-color:aliceblue;
+padding: 20px;border-radius: 10px;
+}
+
+input {
+display: block;
+width: 100%;
+padding: 5px;
+box-sizing: border-box;
+margin-bottom: 10px;
+}
+
