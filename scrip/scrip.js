@@ -24,7 +24,7 @@ let duracao = inputDuracao.value;
 
  resultado.innerHTML = `<p>${qdtTotalCarne/1000}kg de Carne </P>`
  resultado.innerHTML += `<p>${Math.ceil(qdttotalCervejaPP / 350)} Lata de Cereja (LT-350ml)<P>` 
- resultado.innerHTML += `<p>${Math.ceil(qdtTotalbebidasPP/2000)} LT de Refrigente </P>`
+ resultado.innerHTML += `<p>${Math.ceil(qdtTotalbebidasPP/2000)} Pet's 2Lt de Refrigente </P>`
 
 }
 
